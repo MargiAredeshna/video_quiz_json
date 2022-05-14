@@ -1,0 +1,17 @@
+[{
+	"question": "What is the scientific name of a butterfly?",
+	"answers": [ "Coleoptera", "Formicidae"],
+	"correctIndex": 2
+	}, {
+	"question": "How hot is the surface of the sun?",
+	"answers": ["1,233 K", "5,778 K"],
+	"correctIndex": 1
+	}, {
+	"question": "Who are the actors in The Internship?",
+	"answers": ["Courteney Cox, Matt LeBlanc", "Kaley Cuoco, Jim Parsons"],
+	"correctIndex": 2
+	}, {
+	"question": "What is the capital of Spain?",
+	"answers": ["Berlin", "Buenos Aires"],
+	"correctIndex": 2
+}]
